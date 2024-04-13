@@ -1,2 +1,2 @@
 # MyPortfolio
-My personal portfolio.
+My personal portfolio! The best projects to show off what I'm capable to do!
